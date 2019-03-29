@@ -7,7 +7,7 @@
             "name": "Launch via npm",
             "type": "node",
             "request": "launch",
-            "cwd": "${workspaceFolder}\\Sources",
+            "cwd": "${workspaceFolder}\\src",
             "runtimeExecutable": "npm",
             "runtimeArgs": [
                 "run-script", "start"
