@@ -1,0 +1,41 @@
+{
+  "404": {
+    "hasError": true,
+    "reasonCategory": "ContractNotFound",
+    "reason": "Contract not found"
+  },
+  "8171675304": {
+    "hasError": false,
+    "data": {
+      "contractNumber": "0000008171675304",
+      "client": {
+        "civility": "M",
+        "name": "Jon"
+      },
+      "dateSouscription": "2010-08-25T00:00:00",
+      "Amount": 65235.0,
+      "alert": {
+        "status": 10,
+        "message": "Error in this contract",
+        "showDatas": false
+      }
+    }
+  },
+  "80000042": {
+    "hasError": false,
+    "data": {
+      "contractNumber": "0000000080000042",
+      "client": {
+        "civility": "F",
+        "name": "Dany"
+      },
+      "dateSouscription": "2010-08-25T00:00:00",
+      "Amount": 300000.0,
+      "alert": {
+        "status": 4,
+        "message": "warning in this contract",
+        "showDatas": true
+      }
+    }
+  }
+}
