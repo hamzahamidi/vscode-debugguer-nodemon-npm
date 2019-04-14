@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --inspect-brk=9200 --exec babel-node src/index.js"
+    "start": "nodemon --inspect-brk=9200 --exec babel-node src/server.js"
   },
   "keywords": [],
   "author": "",
